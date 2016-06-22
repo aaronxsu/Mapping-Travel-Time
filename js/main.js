@@ -5,6 +5,9 @@ var map = L.map('map', {
 var Stamen_Toner = new L.StamenTileLayer("toner");
 map.addLayer(Stamen_Toner);
 
-var danceNycRaw;
-var danceNycOrganized;
-var markersAllOrgs;
+var danceNycParsed;
+var markerAllOrgs;
+var nycZcta;
+var layerAllZcta;
+var inputOrgComplete = False;
+var inputOrgName;
