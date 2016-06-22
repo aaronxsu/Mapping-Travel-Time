@@ -1,0 +1,427 @@
+ORG_ID,ORG_NAME,ZCTA,Distance,TravelTime,DANCENYC_Budget_Size,DANCENYC_Discipline,NYC_MARKER,Org_ADDRESS,Org_Zip_Code,Org_City,Org_State,lng,lat,ZCTA_lng,ZCTA_lat
+4694,"New Dance Alliance, Inc.",10013,0.50,8,1,Service,Manhattan,"182 Duane Street, 3rd fl.  New York",10013-6605,Manhattan,NY,-74.01012359,40.71707769,-74.00492769,40.72010704
+4757,"Dance Notation Bureau, Inc.",10013,1.30,12,2,Service,Manhattan,111 John Street Rm. 704 New York,10038-3123,Manhattan,NY,-74.00558544,40.70775205,-74.00492769,40.72010704
+4757,"Dance Notation Bureau, Inc.",10013,1.30,12,2,Service,Manhattan,111 John Street Rm. 704 New York,10038-3123,Manhattan,NY,-74.00558544,40.70775205,-74.00492769,40.72010704
+4757,"Dance Notation Bureau, Inc.",10022,5.03,28,2,Service,Manhattan,111 John Street Rm. 704 New York,10038-3123,Manhattan,NY,-74.00558544,40.70775205,-73.96781711,40.75855479
+4781,"H.T. Dance Company, Inc./Chen Dance Center",10001,3.23,25,3,Presenting,Manhattan,70 Mulberry Street 2nd Floor New York,10013-4477,Manhattan,NY,-73.99892901,40.71605013,-73.99728082,40.75067198
+4781,"H.T. Dance Company, Inc./Chen Dance Center",10011,2.17,20,3,Presenting,Manhattan,70 Mulberry Street 2nd Floor New York,10013-4477,Manhattan,NY,-73.99892901,40.71605013,-74.00059401,40.74200174
+4781,"H.T. Dance Company, Inc./Chen Dance Center",10019,4.10,26,3,Presenting,Manhattan,70 Mulberry Street 2nd Floor New York,10013-4477,Manhattan,NY,-73.99892901,40.71605013,-73.98706746,40.76579302
+4781,"H.T. Dance Company, Inc./Chen Dance Center",10021,4.60,30,3,Presenting,Manhattan,70 Mulberry Street 2nd Floor New York,10013-4477,Manhattan,NY,-73.99892901,40.71605013,-73.95863011,40.76915863
+4781,"H.T. Dance Company, Inc./Chen Dance Center",10022,3.67,24,3,Presenting,Manhattan,70 Mulberry Street 2nd Floor New York,10013-4477,Manhattan,NY,-73.99892901,40.71605013,-73.96781711,40.75855479
+4781,"H.T. Dance Company, Inc./Chen Dance Center",10036,3.79,24,3,Presenting,Manhattan,70 Mulberry Street 2nd Floor New York,10013-4477,Manhattan,NY,-73.99892901,40.71605013,-73.98990943,40.75928044
+4781,"H.T. Dance Company, Inc./Chen Dance Center",10038,0.62,12,3,Presenting,Manhattan,70 Mulberry Street 2nd Floor New York,10013-4477,Manhattan,NY,-73.99892901,40.71605013,-74.00253236,40.70932035
+4781,"H.T. Dance Company, Inc./Chen Dance Center",11354,13.30,65,3,Presenting,Manhattan,70 Mulberry Street 2nd Floor New York,10013-4477,Manhattan,NY,-73.99892901,40.71605013,-73.82707207,40.76865622
+4781,"H.T. Dance Company, Inc./Chen Dance Center",11372,9.69,48,3,Presenting,Manhattan,70 Mulberry Street 2nd Floor New York,10013-4477,Manhattan,NY,-73.99892901,40.71605013,-73.88363804,40.75168973
+4834,"Trisha Brown Company, Inc.",10461,13.17,66,4,Dance Maker,Manhattan,341 West 38th Street Suite 801 New York,10018-2918,Manhattan,NY,-73.9933855,40.75570469,-73.84055358,40.84743449
+4862,"Threshold Dance Projects, Inc. (dba Buglisi Dance Theatre)",10011,1.68,8,2,Dance Maker,Manhattan,"229 West 42nd Street, Suite 502  New York",10036-7205,Manhattan,NY,-73.98805013,40.7568124,-74.00059401,40.74200174
+4862,"Threshold Dance Projects, Inc. (dba Buglisi Dance Theatre)",10024,3.17,14,2,Dance Maker,Manhattan,"229 West 42nd Street, Suite 502  New York",10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.97485393,40.79219651
+4862,"Threshold Dance Projects, Inc. (dba Buglisi Dance Theatre)",10024,3.17,14,2,Dance Maker,Manhattan,"229 West 42nd Street, Suite 502  New York",10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.97485393,40.79219651
+4862,"Threshold Dance Projects, Inc. (dba Buglisi Dance Theatre)",10024,3.17,14,2,Dance Maker,Manhattan,"229 West 42nd Street, Suite 502  New York",10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.97485393,40.79219651
+4862,"Threshold Dance Projects, Inc. (dba Buglisi Dance Theatre)",10036,0.25,5,2,Dance Maker,Manhattan,"229 West 42nd Street, Suite 502  New York",10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.98990943,40.75928044
+4862,"Threshold Dance Projects, Inc. (dba Buglisi Dance Theatre)",10036,0.25,5,2,Dance Maker,Manhattan,"229 West 42nd Street, Suite 502  New York",10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.98990943,40.75928044
+4862,"Threshold Dance Projects, Inc. (dba Buglisi Dance Theatre)",10075,3.23,22,2,Dance Maker,Manhattan,"229 West 42nd Street, Suite 502  New York",10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.95620808,40.77335653
+4862,"Threshold Dance Projects, Inc. (dba Buglisi Dance Theatre)",10458,10.50,49,2,Dance Maker,Manhattan,"229 West 42nd Street, Suite 502  New York",10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.88814536,40.86254526
+4862,"Threshold Dance Projects, Inc. (dba Buglisi Dance Theatre)",11103,5.90,36,2,Dance Maker,Manhattan,"229 West 42nd Street, Suite 502  New York",10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.91344728,40.76257411
+4862,"Threshold Dance Projects, Inc. (dba Buglisi Dance Theatre)",11105,6.40,39,2,Dance Maker,Manhattan,"229 West 42nd Street, Suite 502  New York",10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.90676854,40.77887656
+4862,"Threshold Dance Projects, Inc. (dba Buglisi Dance Theatre)",11215,8.82,45,2,Dance Maker,Manhattan,"229 West 42nd Street, Suite 502  New York",10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.98682734,40.66239508
+4901,Opus Dance Theatre & Community Services Inc.,10035,1.68,25,2,Educational,Manhattan,1486 5th Avenue Suite 2S New York,10035-2703,Manhattan,NY,-73.94495267,40.80288941,-73.92973093,40.79565225
+4941,Battery Dance Corporation,10017,3.17,22,3,Dance Maker,Manhattan,380 Broadway 5th Fl New York,10013-6027,Manhattan,NY,-74.003648,40.720024,-73.97241689,40.75234677
+4945,"Ice Theatre of New York, Inc.",10011,0.06,1,3,Dance Maker,Manhattan,62 Chelsea Piers Suite  308 New York,10011-0066,Manhattan,NY,-73.999332,40.74179,-74.00059401,40.74200174
+4945,"Ice Theatre of New York, Inc.",10019,2.42,18,3,Dance Maker,Manhattan,62 Chelsea Piers Suite  308 New York,10011-0066,Manhattan,NY,-73.999332,40.74179,-73.98706746,40.76579302
+4945,"Ice Theatre of New York, Inc.",10030,6.77,34,3,Dance Maker,Manhattan,62 Chelsea Piers Suite  308 New York,10011-0066,Manhattan,NY,-73.999332,40.74179,-73.94285637,40.81826656
+4945,"Ice Theatre of New York, Inc.",10075,4.78,29,3,Dance Maker,Manhattan,62 Chelsea Piers Suite  308 New York,10011-0066,Manhattan,NY,-73.999332,40.74179,-73.95620808,40.77335653
+4945,"Ice Theatre of New York, Inc.",11375,10.87,41,3,Dance Maker,Manhattan,62 Chelsea Piers Suite  308 New York,10011-0066,Manhattan,NY,-73.999332,40.74179,-73.84615107,40.72093404
+4960,Paul Taylor Dance Foundation,10002,0.31,6,5,Dance Maker,Manhattan,551 Grand Street  New York,10002-4282,Manhattan,NY,-73.98073069,40.71411168,-73.98625797,40.71576191
+4960,Paul Taylor Dance Foundation,10002,0.31,6,5,Dance Maker,Manhattan,551 Grand Street  New York,10002-4282,Manhattan,NY,-73.98073069,40.71411168,-73.98625797,40.71576191
+4960,Paul Taylor Dance Foundation,10002,0.31,6,5,Dance Maker,Manhattan,551 Grand Street  New York,10002-4282,Manhattan,NY,-73.98073069,40.71411168,-73.98625797,40.71576191
+4960,Paul Taylor Dance Foundation,10010,2.49,35,5,Dance Maker,Manhattan,551 Grand Street  New York,10002-4282,Manhattan,NY,-73.98073069,40.71411168,-73.98223161,40.73904486
+4960,Paul Taylor Dance Foundation,10011,3.36,28,5,Dance Maker,Manhattan,551 Grand Street  New York,10002-4282,Manhattan,NY,-73.98073069,40.71411168,-74.00059401,40.74200174
+4960,Paul Taylor Dance Foundation,10011,3.36,28,5,Dance Maker,Manhattan,551 Grand Street  New York,10002-4282,Manhattan,NY,-73.98073069,40.71411168,-74.00059401,40.74200174
+4960,Paul Taylor Dance Foundation,10025,7.95,47,5,Dance Maker,Manhattan,551 Grand Street  New York,10002-4282,Manhattan,NY,-73.98073069,40.71411168,-73.96662265,40.79860089
+4960,Paul Taylor Dance Foundation,10040,12.18,61,5,Dance Maker,Manhattan,551 Grand Street  New York,10002-4282,Manhattan,NY,-73.98073069,40.71411168,-73.93051964,40.85829762
+4960,Paul Taylor Dance Foundation,10044,6.71,42,5,Dance Maker,Manhattan,551 Grand Street  New York,10002-4282,Manhattan,NY,-73.98073069,40.71411168,-73.94993304,40.7620505
+4960,Paul Taylor Dance Foundation,11415,11.31,64,5,Dance Maker,Manhattan,551 Grand Street  New York,10002-4282,Manhattan,NY,-73.98073069,40.71411168,-73.82821164,40.70791699
+4979,"Dancewave, Inc.",10029,8.89,47,3,Educational,Brooklyn,45 Fourth Avenue  New York,11217-1903,Brooklyn,NY,-73.97892607,40.68289101,-73.94387569,40.79169813
+4979,"Dancewave, Inc.",11213,3.48,20,3,Educational,Brooklyn,45 Fourth Avenue  New York,11217-1903,Brooklyn,NY,-73.97892607,40.68289101,-73.93633572,40.67107757
+4979,"Dancewave, Inc.",11213,3.48,20,3,Educational,Brooklyn,45 Fourth Avenue  New York,11217-1903,Brooklyn,NY,-73.97892607,40.68289101,-73.93633572,40.67107757
+4979,"Dancewave, Inc.",11216,1.99,14,3,Educational,Brooklyn,45 Fourth Avenue  New York,11217-1903,Brooklyn,NY,-73.97892607,40.68289101,-73.94931646,40.68076751
+4979,"Dancewave, Inc.",11216,1.99,14,3,Educational,Brooklyn,45 Fourth Avenue  New York,11217-1903,Brooklyn,NY,-73.97892607,40.68289101,-73.94931646,40.68076751
+4979,"Dancewave, Inc.",11216,1.99,14,3,Educational,Brooklyn,45 Fourth Avenue  New York,11217-1903,Brooklyn,NY,-73.97892607,40.68289101,-73.94931646,40.68076751
+4979,"Dancewave, Inc.",11217,0.06,1,3,Educational,Brooklyn,45 Fourth Avenue  New York,11217-1903,Brooklyn,NY,-73.97892607,40.68289101,-73.97934481,40.68242095
+4979,"Dancewave, Inc.",11217,0.06,1,3,Educational,Brooklyn,45 Fourth Avenue  New York,11217-1903,Brooklyn,NY,-73.97892607,40.68289101,-73.97934481,40.68242095
+4979,"Dancewave, Inc.",11221,3.04,33,3,Educational,Brooklyn,45 Fourth Avenue  New York,11217-1903,Brooklyn,NY,-73.97892607,40.68289101,-73.9278789,40.69134011
+4979,"Dancewave, Inc.",11235,7.71,34,3,Educational,Brooklyn,45 Fourth Avenue  New York,11217-1903,Brooklyn,NY,-73.97892607,40.68289101,-73.94965788,40.58390522
+4988,"Alvin Ailey Dance Foundation, Inc.",10019,0.12,3,5,Dance Maker,Manhattan,Alvin Ailey Dance Foundation Inc. 405 West 55th Street New York,10019-4402,Manhattan,NY,-73.987442,40.764248,-73.98706746,40.76579302
+4988,"Alvin Ailey Dance Foundation, Inc.",10019,0.12,3,5,Dance Maker,Manhattan,Alvin Ailey Dance Foundation Inc. 405 West 55th Street New York,10019-4402,Manhattan,NY,-73.987442,40.764248,-73.98706746,40.76579302
+4988,"Alvin Ailey Dance Foundation, Inc.",10024,2.98,22,5,Dance Maker,Manhattan,Alvin Ailey Dance Foundation Inc. 405 West 55th Street New York,10019-4402,Manhattan,NY,-73.987442,40.764248,-73.97485393,40.79219651
+4988,"Alvin Ailey Dance Foundation, Inc.",10026,3.85,24,5,Dance Maker,Manhattan,Alvin Ailey Dance Foundation Inc. 405 West 55th Street New York,10019-4402,Manhattan,NY,-73.987442,40.764248,-73.95268139,40.80238049
+4988,"Alvin Ailey Dance Foundation, Inc.",11102,4.66,39,5,Dance Maker,Manhattan,Alvin Ailey Dance Foundation Inc. 405 West 55th Street New York,10019-4402,Manhattan,NY,-73.987442,40.764248,-73.92593714,40.77263531
+4988,"Alvin Ailey Dance Foundation, Inc.",11216,8.45,35,5,Dance Maker,Manhattan,Alvin Ailey Dance Foundation Inc. 405 West 55th Street New York,10019-4402,Manhattan,NY,-73.987442,40.764248,-73.94931646,40.68076751
+4988,"Alvin Ailey Dance Foundation, Inc.",11225,8.76,50,5,Dance Maker,Manhattan,Alvin Ailey Dance Foundation Inc. 405 West 55th Street New York,10019-4402,Manhattan,NY,-73.987442,40.764248,-73.95421921,40.66304587
+5002,"Spanish Dance Arts Company, Inc.",10036,0.81,14,3,Dance Maker,Manhattan,"4 West 43rd Street, Suite 608  New York",10036-7408,Manhattan,NY,-73.98130368,40.75428987,-73.98990943,40.75928044
+5002,"Spanish Dance Arts Company, Inc.",10036,0.81,14,3,Dance Maker,Manhattan,"4 West 43rd Street, Suite 608  New York",10036-7408,Manhattan,NY,-73.98130368,40.75428987,-73.98990943,40.75928044
+5048,"Lotus Fine Art Productions, Inc.",10024,3.36,17,2,Presenting,Manhattan,262 W. 38th St Suite 1006 New York,10018-4688,Manhattan,NY,-73.99107625,40.75423188,-73.97485393,40.79219651
+5048,"Lotus Fine Art Productions, Inc.",10451,7.27,39,2,Presenting,Manhattan,262 W. 38th St Suite 1006 New York,10018-4688,Manhattan,NY,-73.99107625,40.75423188,-73.92368939,40.82077582
+5048,"Lotus Fine Art Productions, Inc.",10458,10.25,48,2,Presenting,Manhattan,262 W. 38th St Suite 1006 New York,10018-4688,Manhattan,NY,-73.99107625,40.75423188,-73.88814536,40.86254526
+5048,"Lotus Fine Art Productions, Inc.",11226,9.20,49,2,Presenting,Manhattan,262 W. 38th St Suite 1006 New York,10018-4688,Manhattan,NY,-73.99107625,40.75423188,-73.95664878,40.64644801
+5115,"Spoke the Hub Dancing, Inc.",11215,1.30,17,2,Educational,Brooklyn,748 Union Street  Brooklyn,11215-1209,Brooklyn,NY,-73.97837016,40.67532265,-73.98682734,40.66239508
+5131,Dancing in the Streets,10023,5.47,25,2,Presenting,Bronx,"555 Bergen Avenue, 3rd Floor  Bronx",10455-1368,Bronx,NY,-73.91645716,40.81599069,-73.98260661,40.7759212
+5131,Dancing in the Streets,10027,2.55,21,2,Presenting,Bronx,"555 Bergen Avenue, 3rd Floor  Bronx",10455-1368,Bronx,NY,-73.91645716,40.81599069,-73.95322362,40.81181896
+5131,Dancing in the Streets,11102,5.53,39,2,Presenting,Bronx,"555 Bergen Avenue, 3rd Floor  Bronx",10455-1368,Bronx,NY,-73.91645716,40.81599069,-73.92593714,40.77263531
+5131,Dancing in the Streets,11215,15.60,77,2,Presenting,Bronx,"555 Bergen Avenue, 3rd Floor  Bronx",10455-1368,Bronx,NY,-73.91645716,40.81599069,-73.98682734,40.66239508
+5155,"DOVA, Inc.",10014,1.24,15,3,Dance Maker,Manhattan,260 West Broadway Suite 4 New York,10013-2260,Manhattan,NY,-74.003648,40.720024,-74.00703305,40.73369768
+5155,"DOVA, Inc.",10021,4.60,30,3,Dance Maker,Manhattan,260 West Broadway Suite 4 New York,10013-2260,Manhattan,NY,-74.003648,40.720024,-73.95863011,40.76915863
+5155,"DOVA, Inc.",10027,7.21,27,3,Dance Maker,Manhattan,260 West Broadway Suite 4 New York,10013-2260,Manhattan,NY,-74.003648,40.720024,-73.95322362,40.81181896
+5155,"DOVA, Inc.",11217,3.04,18,3,Dance Maker,Manhattan,260 West Broadway Suite 4 New York,10013-2260,Manhattan,NY,-74.003648,40.720024,-73.97934481,40.68242095
+5155,"DOVA, Inc.",11225,5.41,33,3,Dance Maker,Manhattan,260 West Broadway Suite 4 New York,10013-2260,Manhattan,NY,-74.003648,40.720024,-73.95421921,40.66304587
+5291,Sachiyo Ito and Company,10022,2.73,20,1,Dance Maker,Manhattan,405 West 23rd Street suite 4G New York,10011-1400,Manhattan,NY,-74.0014202,40.74662943,-73.96781711,40.75855479
+5372,"Art Sweats, Inc.",11206,3.98,29,2,Dance Maker,Manhattan,"140 Second Avenue, #503  New York",10003-8384,Manhattan,NY,-73.98701883,40.7288292,-73.94235774,40.70195384
+5372,"Art Sweats, Inc.",11225,7.64,43,2,Dance Maker,Manhattan,"140 Second Avenue, #503  New York",10003-8384,Manhattan,NY,-73.98701883,40.7288292,-73.95421921,40.66304587
+5687,"Joyce Theater Foundation, Inc.",10001,1.55,14,5,Presenting,Manhattan,175 Eighth Avenue  New York,10011-1694,Manhattan,NY,-74.00036194,40.74287267,-73.99728082,40.75067198
+5687,"Joyce Theater Foundation, Inc.",10017,3.54,26,5,Presenting,Manhattan,175 Eighth Avenue  New York,10011-1694,Manhattan,NY,-74.00036194,40.74287267,-73.97241689,40.75234677
+5687,"Joyce Theater Foundation, Inc.",10035,7.46,58,5,Presenting,Manhattan,175 Eighth Avenue  New York,10011-1694,Manhattan,NY,-74.00036194,40.74287267,-73.92973093,40.79565225
+5687,"Joyce Theater Foundation, Inc.",11205,5.41,41,5,Presenting,Manhattan,175 Eighth Avenue  New York,10011-1694,Manhattan,NY,-74.00036194,40.74287267,-73.96628636,40.69469606
+5689,"Young Dancers in Repertory, Inc.",11204,2.98,16,3,Educational,Brooklyn,P.O. Box 205037 Sunset Station Brooklyn,11220-7037,Brooklyn,NY,-74.015564,40.642875,-73.98482624,40.61877919
+5782,"Lubovitch Dance Foundation, Inc.",10011,1.68,8,3,Dance Maker,Manhattan,229 West 42nd Street Eighth Floor New York,10036-7205,Manhattan,NY,-73.98805013,40.7568124,-74.00059401,40.74200174
+5782,"Lubovitch Dance Foundation, Inc.",10014,2.11,15,3,Dance Maker,Manhattan,229 West 42nd Street Eighth Floor New York,10036-7205,Manhattan,NY,-73.98805013,40.7568124,-74.00703305,40.73369768
+5782,"Lubovitch Dance Foundation, Inc.",10022,1.74,13,3,Dance Maker,Manhattan,229 West 42nd Street Eighth Floor New York,10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.96781711,40.75855479
+5782,"Lubovitch Dance Foundation, Inc.",10032,6.84,27,3,Dance Maker,Manhattan,229 West 42nd Street Eighth Floor New York,10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.94284615,40.83882441
+5782,"Lubovitch Dance Foundation, Inc.",10040,8.14,31,3,Dance Maker,Manhattan,229 West 42nd Street Eighth Floor New York,10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.93051964,40.85829762
+5782,"Lubovitch Dance Foundation, Inc.",11216,7.52,29,3,Dance Maker,Manhattan,229 West 42nd Street Eighth Floor New York,10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.94931646,40.68076751
+5782,"Lubovitch Dance Foundation, Inc.",11222,5.28,33,3,Dance Maker,Manhattan,229 West 42nd Street Eighth Floor New York,10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.94774403,40.72823579
+5782,"Lubovitch Dance Foundation, Inc.",11226,9.13,47,3,Dance Maker,Manhattan,229 West 42nd Street Eighth Floor New York,10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.95664878,40.64644801
+5782,"Lubovitch Dance Foundation, Inc.",11366,12.49,62,3,Dance Maker,Manhattan,229 West 42nd Street Eighth Floor New York,10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.78501868,40.72815221
+5782,"Lubovitch Dance Foundation, Inc.",11366,12.49,62,3,Dance Maker,Manhattan,229 West 42nd Street Eighth Floor New York,10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.78501868,40.72815221
+5873,"The Dance Ring, Inc.",11217,4.23,25,4,Dance Maker,Manhattan,131 East 10 Street 2nd Floor New York,10003-7504,Manhattan,NY,-73.98754145,40.73018199,-73.97934481,40.68242095
+5878,Renegade Performance Group,11225,0.75,9,1,Dance Maker,Brooklyn,"1289 Union Street, 6D  Brooklyn",11225-1667,Brooklyn,NY,-73.94949824,40.6689842,-73.95421921,40.66304587
+5878,Renegade Performance Group,11225,0.75,9,1,Dance Maker,Brooklyn,"1289 Union Street, 6D  Brooklyn",11225-1667,Brooklyn,NY,-73.94949824,40.6689842,-73.95421921,40.66304587
+5983,"Gina Gibney Dance, Inc.",10014,1.18,14,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-74.00703305,40.73369768
+5983,"Gina Gibney Dance, Inc.",10023,3.60,26,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.98260661,40.7759212
+5983,"Gina Gibney Dance, Inc.",10028,4.23,21,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.95349321,40.77642648
+5983,"Gina Gibney Dance, Inc.",10031,9.32,40,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.95005622,40.82529412
+5983,"Gina Gibney Dance, Inc.",10031,7.21,38,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.95005622,40.82529412
+5983,"Gina Gibney Dance, Inc.",10035,6.77,39,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.92973093,40.79565225
+5983,"Gina Gibney Dance, Inc.",10039,8.33,33,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.93606859,40.83085576
+5983,"Gina Gibney Dance, Inc.",10128,4.29,22,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.9499423,40.78142977
+5983,"Gina Gibney Dance, Inc.",11102,7.08,41,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.92593714,40.77263531
+5983,"Gina Gibney Dance, Inc.",11103,7.15,42,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.91344728,40.76257411
+5983,"Gina Gibney Dance, Inc.",11206,4.04,26,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.94235774,40.70195384
+5983,"Gina Gibney Dance, Inc.",11206,4.04,26,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.94235774,40.70195384
+5983,"Gina Gibney Dance, Inc.",11206,4.04,26,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.94235774,40.70195384
+5983,"Gina Gibney Dance, Inc.",11206,4.04,26,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.94235774,40.70195384
+5983,"Gina Gibney Dance, Inc.",11213,8.70,37,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.93633572,40.67107757
+5983,"Gina Gibney Dance, Inc.",11216,6.40,20,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.94931646,40.68076751
+5983,"Gina Gibney Dance, Inc.",11217,5.84,29,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.97934481,40.68242095
+5983,"Gina Gibney Dance, Inc.",11217,5.84,29,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.97934481,40.68242095
+5983,"Gina Gibney Dance, Inc.",11217,5.84,29,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.97934481,40.68242095
+5983,"Gina Gibney Dance, Inc.",11217,5.84,29,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.97934481,40.68242095
+5983,"Gina Gibney Dance, Inc.",11221,6.21,31,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.9278789,40.69134011
+5983,"Gina Gibney Dance, Inc.",11226,7.89,43,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.95664878,40.64644801
+5983,"Gina Gibney Dance, Inc.",11226,7.89,43,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.95664878,40.64644801
+5983,"Gina Gibney Dance, Inc.",11231,5.59,33,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-74.00468013,40.67750611
+5983,"Gina Gibney Dance, Inc.",11237,4.97,25,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.92095455,40.70419669
+5983,"Gina Gibney Dance, Inc.",11238,6.15,33,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.96380438,40.67917074
+5983,"Gina Gibney Dance, Inc.",11355,11.31,53,4,Presenting,Manhattan,890 Broadway 5th Floor New York,10003-1211,Manhattan,NY,-73.989477,40.732373,-73.82103101,40.75145235
+6044,"Groove With Me, Inc.",10469,7.39,38,2,Educational,Manhattan,186 E. 123rd St. 2nd Fl  New York,10035-2211,Manhattan,NY,-73.93718253,40.80247297,-73.84821764,40.86856974
+6044,"Groove With Me, Inc.",11231,11.99,71,2,Educational,Manhattan,186 E. 123rd St. 2nd Fl  New York,10035-2211,Manhattan,NY,-73.93718253,40.80247297,-74.00468013,40.67750611
+6159,Ballet Hispanico of New York,10037,3.23,22,5,Dance Maker,Manhattan,167 West 89 Street  New York,10024-1901,Manhattan,NY,-73.97263851,40.78930606,-73.93728496,40.81298444
+6159,Ballet Hispanico of New York,11368,10.94,54,5,Dance Maker,Manhattan,167 West 89 Street  New York,10024-1901,Manhattan,NY,-73.97263851,40.78930606,-73.85281119,40.74939667
+6648,Martha Graham Center of Contemporary Dance,10006,2.55,24,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-74.01295375,40.70961444
+6648,Martha Graham Center of Contemporary Dance,10014,0.37,7,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-74.00703305,40.73369768
+6648,Martha Graham Center of Contemporary Dance,10022,3.54,28,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.96781711,40.75855479
+6648,Martha Graham Center of Contemporary Dance,10024,5.10,25,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.97485393,40.79219651
+6648,Martha Graham Center of Contemporary Dance,10025,5.28,33,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.96662265,40.79860089
+6648,Martha Graham Center of Contemporary Dance,10026,6.65,31,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.95268139,40.80238049
+6648,Martha Graham Center of Contemporary Dance,10027,6.28,30,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.95322362,40.81181896
+6648,Martha Graham Center of Contemporary Dance,10032,8.64,41,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.94284615,40.83882441
+6648,Martha Graham Center of Contemporary Dance,10033,9.20,46,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.93386273,40.85053763
+6648,Martha Graham Center of Contemporary Dance,10033,9.20,46,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.93386273,40.85053763
+6648,Martha Graham Center of Contemporary Dance,10036,2.11,19,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.98990943,40.75928044
+6648,Martha Graham Center of Contemporary Dance,10128,5.34,37,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.9499423,40.78142977
+6648,Martha Graham Center of Contemporary Dance,10463,11.87,58,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.90663658,40.88084814
+6648,Martha Graham Center of Contemporary Dance,10463,11.87,58,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.90663658,40.88084814
+6648,Martha Graham Center of Contemporary Dance,11105,8.20,52,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.90676854,40.77887656
+6648,Martha Graham Center of Contemporary Dance,11234,14.04,78,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.91056951,40.60655729
+6648,Martha Graham Center of Contemporary Dance,11237,6.15,33,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.92095455,40.70419669
+6648,Martha Graham Center of Contemporary Dance,11238,6.46,39,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.96380438,40.67917074
+6648,Martha Graham Center of Contemporary Dance,11377,6.90,37,4,Dance Maker,Manhattan,55 Bethune Street  New York,10014-2010,Manhattan,NY,-74.00844954,40.73687184,-73.90515579,40.74481944
+6673,Appleby Foundation Inc.,10012,0.19,4,2,Dance Maker,Manhattan,579 Broadway 4B  New York,10012-5415,Manhattan,NY,-73.996124,40.724324,-73.99807839,40.72558064
+6675,BAAD! Bronx Academy of Arts & Dance/Arthur Aviles Typical Theatre,10009,12.99,66,2,Presenting,Bronx,2474 Westchester Avenue  Bronx,10461-3510,Bronx,NY,-73.84495844,40.83810298,-73.97863603,40.72640797
+6675,BAAD! Bronx Academy of Arts & Dance/Arthur Aviles Typical Theatre,10030,7.77,66,2,Presenting,Bronx,2474 Westchester Avenue  Bronx,10461-3510,Bronx,NY,-73.84495844,40.83810298,-73.94285637,40.81826656
+6675,BAAD! Bronx Academy of Arts & Dance/Arthur Aviles Typical Theatre,10454,4.85,24,2,Presenting,Bronx,2474 Westchester Avenue  Bronx,10461-3510,Bronx,NY,-73.84495844,40.83810298,-73.91658963,40.80551762
+6681,"K.S. J.A.M.M. Dance Troupe, Inc.",11211,2.11,18,2,Educational,Brooklyn,347 Nostrand Avenue  Brooklyn,11216-4668,Brooklyn,NY,-73.95067015,40.68632539,-73.95353353,40.7123372
+6707,Calpulli Mexican Dance Co.,10002,10.94,62,2,Dance Maker,Queens,2512 77th St.  East Elmhurst,11370-1528,Queens,NY,-73.89158555,40.76210749,-73.98625797,40.71576191
+6707,Calpulli Mexican Dance Co.,10019,7.39,48,2,Dance Maker,Queens,2512 77th St.  East Elmhurst,11370-1528,Queens,NY,-73.89158555,40.76210749,-73.98706746,40.76579302
+6707,Calpulli Mexican Dance Co.,10019,7.39,48,2,Dance Maker,Queens,2512 77th St.  East Elmhurst,11370-1528,Queens,NY,-73.89158555,40.76210749,-73.98706746,40.76579302
+6707,Calpulli Mexican Dance Co.,10303,29.33,105,2,Dance Maker,Queens,2512 77th St.  East Elmhurst,11370-1528,Queens,NY,-73.89158555,40.76210749,-74.16902516,40.6323725
+6707,Calpulli Mexican Dance Co.,11106,4.04,38,2,Dance Maker,Queens,2512 77th St.  East Elmhurst,11370-1528,Queens,NY,-73.89158555,40.76210749,-73.93180774,40.76179377
+6707,Calpulli Mexican Dance Co.,11370,1.43,11,2,Dance Maker,Queens,2512 77th St.  East Elmhurst,11370-1528,Queens,NY,-73.89158555,40.76210749,-73.88742768,40.77525174
+6707,Calpulli Mexican Dance Co.,11370,1.43,11,2,Dance Maker,Queens,2512 77th St.  East Elmhurst,11370-1528,Queens,NY,-73.89158555,40.76210749,-73.88742768,40.77525174
+6707,Calpulli Mexican Dance Co.,11370,1.43,11,2,Dance Maker,Queens,2512 77th St.  East Elmhurst,11370-1528,Queens,NY,-73.89158555,40.76210749,-73.88742768,40.77525174
+6785,"DanceWorks, Inc./Pentacle",11103,9.63,57,3,Service,Manhattan,75 Broad Street Suite 304 New York,10004-2415,Manhattan,NY,-74.01122569,40.70466484,-73.91344728,40.76257411
+6785,"DanceWorks, Inc./Pentacle",11213,6.09,28,3,Service,Manhattan,75 Broad Street Suite 304 New York,10004-2415,Manhattan,NY,-74.01122569,40.70466484,-73.93633572,40.67107757
+6791,"Triskelion Arts/Kick StanDance, Inc.",10038,7.39,45,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-74.00253236,40.70932035
+6791,"Triskelion Arts/Kick StanDance, Inc.",10038,7.39,45,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-74.00253236,40.70932035
+6791,"Triskelion Arts/Kick StanDance, Inc.",11201,5.22,36,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.98995163,40.69448579
+6791,"Triskelion Arts/Kick StanDance, Inc.",11201,5.22,36,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.98995163,40.69448579
+6791,"Triskelion Arts/Kick StanDance, Inc.",11211,1.37,17,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.95353353,40.7123372
+6791,"Triskelion Arts/Kick StanDance, Inc.",11211,1.37,17,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.95353353,40.7123372
+6791,"Triskelion Arts/Kick StanDance, Inc.",11215,7.83,43,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.98682734,40.66239508
+6791,"Triskelion Arts/Kick StanDance, Inc.",11217,4.60,32,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.97934481,40.68242095
+6791,"Triskelion Arts/Kick StanDance, Inc.",11217,4.60,32,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.97934481,40.68242095
+6791,"Triskelion Arts/Kick StanDance, Inc.",11218,8.82,45,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.97604634,40.64346807
+6791,"Triskelion Arts/Kick StanDance, Inc.",11218,8.82,45,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.97604634,40.64346807
+6791,"Triskelion Arts/Kick StanDance, Inc.",11221,5.10,43,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.9278789,40.69134011
+6791,"Triskelion Arts/Kick StanDance, Inc.",11222,0.56,12,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.94774403,40.72823579
+6791,"Triskelion Arts/Kick StanDance, Inc.",11222,0.56,12,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.94774403,40.72823579
+6791,"Triskelion Arts/Kick StanDance, Inc.",11222,0.56,12,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.94774403,40.72823579
+6791,"Triskelion Arts/Kick StanDance, Inc.",11222,0.56,12,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.94774403,40.72823579
+6791,"Triskelion Arts/Kick StanDance, Inc.",11222,0.56,12,2,Presenting,Brooklyn,106 Calyer Street  Brooklyn,11222-2572,Brooklyn,NY,-73.95647259,40.72701942,-73.94774403,40.72823579
+6798,"School of American Ballet, Inc.",11103,5.28,40,5,Educational,Manhattan,"70 Lincoln Center Plaza, 5th Floor  New York",10023-6592,Manhattan,NY,-73.98261505,40.77148832,-73.91344728,40.76257411
+6819,"Thin Man Dance, Inc.",10027,7.83,29,2,Dance Maker,Manhattan,"140 Second Ave., #501  New York",10003-8364,Manhattan,NY,-73.98701883,40.7288292,-73.95322362,40.81181896
+6844,The Muller Works Foundation,10011,0.56,7,2,Dance Maker,Manhattan,131 West 24th Street 4th Floor New York,10011-1942,Manhattan,NY,-73.99359381,40.74439419,-74.00059401,40.74200174
+6844,The Muller Works Foundation,10011,0.56,7,2,Dance Maker,Manhattan,131 West 24th Street 4th Floor New York,10011-1942,Manhattan,NY,-73.99359381,40.74439419,-74.00059401,40.74200174
+6844,The Muller Works Foundation,10017,2.11,21,2,Dance Maker,Manhattan,131 West 24th Street 4th Floor New York,10011-1942,Manhattan,NY,-73.99359381,40.74439419,-73.97241689,40.75234677
+6850,The School of Hard Knocks,10003,0.81,14,1,Dance Maker,Manhattan,"201 East 4th Street, Storefront  New York",10009-7233,Manhattan,NY,-73.9838992,40.72410777,-73.98918093,40.7318292
+6883,Bronx Dance Theatre,10009,13.67,74,3,Educational,Bronx,"585 E. 187th Street, 2nd Floor  Bronx",10458-6701,Bronx,NY,-73.88796626,40.85586952,-73.97863603,40.72640797
+6883,Bronx Dance Theatre,10469,3.79,39,3,Educational,Bronx,"585 E. 187th Street, 2nd Floor  Bronx",10458-6701,Bronx,NY,-73.88796626,40.85586952,-73.84821764,40.86856974
+6989,Dynamic Forms Inc.,10009,0.99,14,2,Dance Maker,Manhattan,"107 Suffolk Street, Studio 310  New York",10002-3387,Manhattan,NY,-73.98616867,40.71903761,-73.97863603,40.72640797
+6989,Dynamic Forms Inc.,10011,2.67,19,2,Dance Maker,Manhattan,"107 Suffolk Street, Studio 310  New York",10002-3387,Manhattan,NY,-73.98616867,40.71903761,-74.00059401,40.74200174
+6989,Dynamic Forms Inc.,10012,1.12,9,2,Dance Maker,Manhattan,"107 Suffolk Street, Studio 310  New York",10002-3387,Manhattan,NY,-73.98616867,40.71903761,-73.99807839,40.72558064
+6989,Dynamic Forms Inc.,10022,4.66,27,2,Dance Maker,Manhattan,"107 Suffolk Street, Studio 310  New York",10002-3387,Manhattan,NY,-73.98616867,40.71903761,-73.96781711,40.75855479
+6989,Dynamic Forms Inc.,10023,5.78,29,2,Dance Maker,Manhattan,"107 Suffolk Street, Studio 310  New York",10002-3387,Manhattan,NY,-73.98616867,40.71903761,-73.98260661,40.7759212
+7016,"National Dance Institute, Inc.",10026,2.11,15,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.95268139,40.80238049
+7016,"National Dance Institute, Inc.",10027,1.30,17,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.95322362,40.81181896
+7016,"National Dance Institute, Inc.",10027,1.30,17,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.95322362,40.81181896
+7016,"National Dance Institute, Inc.",10029,2.98,37,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.94387569,40.79169813
+7016,"National Dance Institute, Inc.",10029,2.98,37,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.94387569,40.79169813
+7016,"National Dance Institute, Inc.",10030,0.62,9,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.94285637,40.81826656
+7016,"National Dance Institute, Inc.",10033,2.55,22,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.93386273,40.85053763
+7016,"National Dance Institute, Inc.",10033,2.55,22,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.93386273,40.85053763
+7016,"National Dance Institute, Inc.",10033,2.55,22,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.93386273,40.85053763
+7016,"National Dance Institute, Inc.",10034,3.73,26,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.92441523,40.86723003
+7016,"National Dance Institute, Inc.",10040,3.17,25,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.93051964,40.85829762
+7016,"National Dance Institute, Inc.",11201,11.81,47,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.98995163,40.69448579
+7016,"National Dance Institute, Inc.",11201,11.81,47,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.98995163,40.69448579
+7016,"National Dance Institute, Inc.",11216,12.92,52,4,Service,Manhattan,217 West 147th Street  New York,10039-3427,Manhattan,NY,-73.93948134,40.82390989,-73.94931646,40.68076751
+7036,Discalced Inc. dba Mark Morris Dance Group,10001,6.28,34,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.99728082,40.75067198
+7036,Discalced Inc. dba Mark Morris Dance Group,10023,8.02,35,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.98260661,40.7759212
+7036,Discalced Inc. dba Mark Morris Dance Group,11201,0.87,8,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.98995163,40.69448579
+7036,Discalced Inc. dba Mark Morris Dance Group,11201,0.87,8,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.98995163,40.69448579
+7036,Discalced Inc. dba Mark Morris Dance Group,11203,4.91,33,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.93437093,40.64959091
+7036,Discalced Inc. dba Mark Morris Dance Group,11209,5.41,29,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-74.03032358,40.62198169
+7036,Discalced Inc. dba Mark Morris Dance Group,11211,3.29,19,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.95353353,40.7123372
+7036,Discalced Inc. dba Mark Morris Dance Group,11213,3.73,19,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.93633572,40.67107757
+7036,Discalced Inc. dba Mark Morris Dance Group,11216,1.62,12,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.94931646,40.68076751
+7036,Discalced Inc. dba Mark Morris Dance Group,11216,1.62,12,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.94931646,40.68076751
+7036,Discalced Inc. dba Mark Morris Dance Group,11216,1.62,12,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.94931646,40.68076751
+7036,Discalced Inc. dba Mark Morris Dance Group,11217,0.37,8,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.97934481,40.68242095
+7036,Discalced Inc. dba Mark Morris Dance Group,11221,2.80,28,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.9278789,40.69134011
+7036,Discalced Inc. dba Mark Morris Dance Group,11222,4.35,26,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.94774403,40.72823579
+7036,Discalced Inc. dba Mark Morris Dance Group,11226,3.17,34,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.95664878,40.64644801
+7036,Discalced Inc. dba Mark Morris Dance Group,11226,3.17,34,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.95664878,40.64644801
+7036,Discalced Inc. dba Mark Morris Dance Group,11230,5.03,30,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.96510535,40.6221639
+7036,Discalced Inc. dba Mark Morris Dance Group,11231,2.49,26,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-74.00468013,40.67750611
+7036,Discalced Inc. dba Mark Morris Dance Group,11238,1.12,14,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.96380438,40.67917074
+7036,Discalced Inc. dba Mark Morris Dance Group,11238,1.12,14,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.96380438,40.67917074
+7036,Discalced Inc. dba Mark Morris Dance Group,11364,15.10,72,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.76058628,40.74528941
+7036,Discalced Inc. dba Mark Morris Dance Group,11375,12.37,44,5,Dance Maker,Brooklyn,3 Lafayette Avenue  Brooklyn,11217-1415,Brooklyn,NY,-73.97896719,40.68681508,-73.84615107,40.72093404
+7050,Dusan Tynek Dance Theatre,11215,0.56,8,2,Dance Maker,Brooklyn,"415 9th Street, #54  Brooklyn",11215-4155,Brooklyn,NY,-73.98236314,40.66736586,-73.98682734,40.66239508
+7061,"Ballet Theatre Foundation, Inc.",10003,0.12,3,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.98918093,40.7318292
+7061,"Ballet Theatre Foundation, Inc.",10009,1.12,16,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.97863603,40.72640797
+7061,"Ballet Theatre Foundation, Inc.",10011,1.12,11,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-74.00059401,40.74200174
+7061,"Ballet Theatre Foundation, Inc.",10017,1.86,14,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.97241689,40.75234677
+7061,"Ballet Theatre Foundation, Inc.",10019,2.86,24,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.98706746,40.76579302
+7061,"Ballet Theatre Foundation, Inc.",10019,2.86,24,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.98706746,40.76579302
+7061,"Ballet Theatre Foundation, Inc.",10022,2.49,18,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.96781711,40.75855479
+7061,"Ballet Theatre Foundation, Inc.",10023,3.60,25,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.98260661,40.7759212
+7061,"Ballet Theatre Foundation, Inc.",10023,3.60,25,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.98260661,40.7759212
+7061,"Ballet Theatre Foundation, Inc.",10024,5.34,26,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.97485393,40.79219651
+7061,"Ballet Theatre Foundation, Inc.",10024,5.34,26,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.97485393,40.79219651
+7061,"Ballet Theatre Foundation, Inc.",10025,5.10,32,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.96662265,40.79860089
+7061,"Ballet Theatre Foundation, Inc.",10026,6.90,31,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.95268139,40.80238049
+7061,"Ballet Theatre Foundation, Inc.",10027,6.71,27,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.95322362,40.81181896
+7061,"Ballet Theatre Foundation, Inc.",10027,6.71,27,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.95322362,40.81181896
+7061,"Ballet Theatre Foundation, Inc.",10028,4.16,21,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.95349321,40.77642648
+7061,"Ballet Theatre Foundation, Inc.",10034,10.94,45,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.92441523,40.86723003
+7061,"Ballet Theatre Foundation, Inc.",10035,6.77,39,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.92973093,40.79565225
+7061,"Ballet Theatre Foundation, Inc.",10069,3.54,31,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.99052767,40.77597826
+7061,"Ballet Theatre Foundation, Inc.",10075,3.67,21,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.95620808,40.77335653
+7061,"Ballet Theatre Foundation, Inc.",10463,11.68,57,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.90663658,40.88084814
+7061,"Ballet Theatre Foundation, Inc.",11101,5.41,33,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.93868942,40.74726638
+7061,"Ballet Theatre Foundation, Inc.",11103,7.15,44,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.91344728,40.76257411
+7061,"Ballet Theatre Foundation, Inc.",11104,5.78,27,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.92020103,40.74463448
+7061,"Ballet Theatre Foundation, Inc.",11105,7.77,44,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.90676854,40.77887656
+7061,"Ballet Theatre Foundation, Inc.",11105,7.77,44,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.90676854,40.77887656
+7061,"Ballet Theatre Foundation, Inc.",11201,4.72,24,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.98995163,40.69448579
+7061,"Ballet Theatre Foundation, Inc.",11209,9.26,44,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-74.03032358,40.62198169
+7061,"Ballet Theatre Foundation, Inc.",11226,9.51,46,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.95664878,40.64644801
+7061,"Ballet Theatre Foundation, Inc.",11232,6.77,33,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-74.0068203,40.65627874
+7061,"Ballet Theatre Foundation, Inc.",11377,6.52,29,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.90515579,40.74481944
+7061,"Ballet Theatre Foundation, Inc.",11414,14.73,72,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.84481344,40.65827523
+7061,"Ballet Theatre Foundation, Inc.",11432,13.67,59,5,Dance Maker,Manhattan,890 Broadway 3rd Floor New York,10003-1278,Manhattan,NY,-73.989477,40.732373,-73.79307119,40.71535904
+7062,Dance/NYC,10011,1.49,14,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-74.00059401,40.74200174
+7062,Dance/NYC,10011,1.49,14,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-74.00059401,40.74200174
+7062,Dance/NYC,10024,4.97,33,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-73.97485393,40.79219651
+7062,Dance/NYC,10024,4.97,33,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-73.97485393,40.79219651
+7062,Dance/NYC,10028,4.35,26,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-73.95349321,40.77642648
+7062,Dance/NYC,10032,9.44,43,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-73.94284615,40.83882441
+7062,Dance/NYC,10033,9.20,48,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-73.93386273,40.85053763
+7062,Dance/NYC,10075,3.42,25,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-73.95620808,40.77335653
+7062,Dance/NYC,11201,4.91,28,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-73.98995163,40.69448579
+7062,Dance/NYC,11205,4.47,42,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-73.96628636,40.69469606
+7062,Dance/NYC,11215,7.33,46,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-73.98682734,40.66239508
+7062,Dance/NYC,11226,9.69,51,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-73.95664878,40.64644801
+7062,Dance/NYC,11370,9.38,62,2,Service,Manhattan,218 East 18th Street 4th Floor New York,10003-3694,Manhattan,NY,-73.98451468,40.73518374,-73.88742768,40.77525174
+7083,WHITE WAVE RISING Young Soon Kim Dance Company,11221,0.25,5,2,Presenting,Brooklyn,753 Lexington Avenue #2B Brooklyn,11221-5835,Brooklyn,NY,-73.93108671,40.69020017,-73.9278789,40.69134011
+7083,WHITE WAVE RISING Young Soon Kim Dance Company,11361,19.64,74,2,Presenting,Brooklyn,753 Lexington Avenue #2B Brooklyn,11221-5835,Brooklyn,NY,-73.93108671,40.69020017,-73.77247534,40.76373037
+7108,"Dancing Crane, Inc.",11229,3.54,47,2,Educational,Brooklyn,6401 20th Avenue  Brooklyn,11204-3904,Brooklyn,NY,-73.98507875,40.61688023,-73.94439348,40.6011302
+7114,Staten Island Ballet Theater Inc.,10306,0.50,11,3,Dance Maker,Staten Island,3081 Richmond Road  Staten Island,10306-1941,Staten Island,NY,-74.120829,40.566903,-74.12525981,40.57155343
+7122,"Foundation for Dance Promotion, Inc.",11221,12.12,54,4,Presenting,Manhattan,"27 West 120th Street, #1  New York",10027-6436,Manhattan,NY,-73.94654621,40.80415001,-73.9278789,40.69134011
+7136,Dance Entropy Inc.,10037,9.20,42,2,Dance Maker,Queens,37-24 24th Street #301  Long Island City,11101-3529,Queens,NY,-73.93918,40.74847,-73.93728496,40.81298444
+7136,Dance Entropy Inc.,11101,0.12,2,2,Dance Maker,Queens,37-24 24th Street #301  Long Island City,11101-3529,Queens,NY,-73.93918,40.74847,-73.93868942,40.74726638
+7137,"Keigwin and Company, Inc.",10016,1.06,17,3,Dance Maker,Manhattan,"143 West 29th Street, 5th Floor  New York",10001-5150,Manhattan,NY,-73.99162782,40.7475555,-73.97829381,40.74522045
+7195,"Racing Thoughts, Inc.",10013,0.25,5,1,Dance Maker,Manhattan,55 N. Moore Street  New York,10013-2349,Manhattan,NY,-74.00912307,40.72022805,-74.00492769,40.72010704
+7223,Dances For A Variable Population,10027,0.75,10,2,Dance Maker,Manhattan,560 Riverside Dr. Apt 9K  New York,10027-3235,Manhattan,NY,-73.96040194,40.81625517,-73.95322362,40.81181896
+7330,Big Dance Theater,11201,1.12,16,2,Dance Maker,Brooklyn,303 Clinton Street  Brooklyn,11231-3701,Brooklyn,NY,-73.99619558,40.68587912,-73.98995163,40.69448579
+7330,Big Dance Theater,11218,4.16,26,2,Dance Maker,Brooklyn,303 Clinton Street  Brooklyn,11231-3701,Brooklyn,NY,-73.99619558,40.68587912,-73.97604634,40.64346807
+7330,Big Dance Theater,11232,3.48,27,2,Dance Maker,Brooklyn,303 Clinton Street  Brooklyn,11231-3701,Brooklyn,NY,-73.99619558,40.68587912,-74.0068203,40.65627874
+7478,Jose Limon Dance Foundation,10024,3.42,19,4,Dance Maker,Manhattan,"307 West 38th Street, Suite 1414  New York",10018-0086,Manhattan,NY,-73.99216267,40.75524144,-73.97485393,40.79219651
+7478,Jose Limon Dance Foundation,10037,5.97,29,4,Dance Maker,Manhattan,"307 West 38th Street, Suite 1414  New York",10018-0086,Manhattan,NY,-73.99216267,40.75524144,-73.93728496,40.81298444
+7478,Jose Limon Dance Foundation,11103,7.33,42,4,Dance Maker,Manhattan,"307 West 38th Street, Suite 1414  New York",10018-0086,Manhattan,NY,-73.99216267,40.75524144,-73.91344728,40.76257411
+7478,Jose Limon Dance Foundation,11237,7.02,36,4,Dance Maker,Manhattan,"307 West 38th Street, Suite 1414  New York",10018-0086,Manhattan,NY,-73.99216267,40.75524144,-73.92095455,40.70419669
+7478,Jose Limon Dance Foundation,11237,7.02,36,4,Dance Maker,Manhattan,"307 West 38th Street, Suite 1414  New York",10018-0086,Manhattan,NY,-73.99216267,40.75524144,-73.92095455,40.70419669
+7478,Jose Limon Dance Foundation,11413,15.60,44,4,Dance Maker,Manhattan,"307 West 38th Street, Suite 1414  New York",10018-0086,Manhattan,NY,-73.99216267,40.75524144,-73.7508402,40.66981707
+7513,"Isadora Duncan Foundation for Contemporary Dance, Inc.",10013,2.30,15,2,Dance Maker,Manhattan,141 West 26th Street 3rd Floor New York,10001-6800,Manhattan,NY,-73.99282421,40.74562757,-74.00492769,40.72010704
+7513,"Isadora Duncan Foundation for Contemporary Dance, Inc.",10013,2.30,15,2,Dance Maker,Manhattan,141 West 26th Street 3rd Floor New York,10001-6800,Manhattan,NY,-73.99282421,40.74562757,-74.00492769,40.72010704
+7531,"The Bang Group, Inc",10011,0.68,7,2,Dance Maker,Manhattan,"131 Perry St, #1A  New York",10014-6210,Manhattan,NY,-74.00760857,40.7351105,-74.00059401,40.74200174
+7531,"The Bang Group, Inc",10014,0.12,3,2,Dance Maker,Manhattan,"131 Perry St, #1A  New York",10014-6210,Manhattan,NY,-74.00760857,40.7351105,-74.00703305,40.73369768
+7531,"The Bang Group, Inc",11225,8.26,47,2,Dance Maker,Manhattan,"131 Perry St, #1A  New York",10014-6210,Manhattan,NY,-74.00760857,40.7351105,-73.95421921,40.66304587
+7534,Brooklyn Ballet Inc,11221,6.34,27,2,Dance Maker,Brooklyn,160 Schermerhorn Street  Brooklyn,11201-5988,Brooklyn,NY,-73.98745629,40.68943715,-73.9278789,40.69134011
+7534,Brooklyn Ballet Inc,11226,3.67,37,2,Dance Maker,Brooklyn,160 Schermerhorn Street  Brooklyn,11201-5988,Brooklyn,NY,-73.98745629,40.68943715,-73.95664878,40.64644801
+7691,"Shen Wei Dance Arts, Inc.",10001,3.36,22,4,Dance Maker,Manhattan,165 West 86th Street 4th Floor New York,10024-3412,Manhattan,NY,-73.97447162,40.78772178,-73.99728082,40.75067198
+7756,"American Tap Dance Foundation, Inc.",10003,1.30,19,3,Service,Manhattan,154 Christopher Street #2B New York,10014-2840,Manhattan,NY,-74.00864139,40.7325507,-73.98918093,40.7318292
+7756,"American Tap Dance Foundation, Inc.",10023,3.54,23,3,Service,Manhattan,154 Christopher Street #2B New York,10014-2840,Manhattan,NY,-74.00864139,40.7325507,-73.98260661,40.7759212
+7756,"American Tap Dance Foundation, Inc.",10036,2.49,21,3,Service,Manhattan,154 Christopher Street #2B New York,10014-2840,Manhattan,NY,-74.00864139,40.7325507,-73.98990943,40.75928044
+7756,"American Tap Dance Foundation, Inc.",10036,2.49,21,3,Service,Manhattan,154 Christopher Street #2B New York,10014-2840,Manhattan,NY,-74.00864139,40.7325507,-73.98990943,40.75928044
+7756,"American Tap Dance Foundation, Inc.",10040,10.07,51,3,Service,Manhattan,154 Christopher Street #2B New York,10014-2840,Manhattan,NY,-74.00864139,40.7325507,-73.93051964,40.85829762
+7756,"American Tap Dance Foundation, Inc.",11106,7.15,45,3,Service,Manhattan,154 Christopher Street #2B New York,10014-2840,Manhattan,NY,-74.00864139,40.7325507,-73.93180774,40.76179377
+7828,E. Monte Motion Inc.,11221,6.96,37,2,Dance Maker,Manhattan,"481 Eighth Avenue, Ste 543  New York",10001-1809,Manhattan,NY,-73.99364705,40.75273366,-73.9278789,40.69134011
+7883,"D.A.N.C.E., Inc",10019,9.94,53,1,Presenting,Bronx,1408 Comminwealth Ave  Bronx,10472-0000,Bronx,NY,-73.86872051,40.83514397,-73.98706746,40.76579302
+7895,"Dance Project SEQUENCE, Inc.",11377,2.49,12,1,Service,Manhattan,"37-18 Northern Blvd., Suite 315 Long Island City",11101-1635,Manhattan,NY,-73.93918,40.74847,-73.90515579,40.74481944
+8015,"iLAND,inc.",10031,7.64,42,1,Dance Maker,Manhattan,"140 Second Ave., #404  New York",10003-8385,Manhattan,NY,-73.98701883,40.7288292,-73.95005622,40.82529412
+8015,"iLAND,inc.",11211,2.86,22,1,Dance Maker,Manhattan,"140 Second Ave., #404  New York",10003-8385,Manhattan,NY,-73.98701883,40.7288292,-73.95353353,40.7123372
+8015,"iLAND,inc.",11217,4.23,26,1,Dance Maker,Manhattan,"140 Second Ave., #404  New York",10003-8385,Manhattan,NY,-73.98701883,40.7288292,-73.97934481,40.68242095
+8025,"UBW, Inc.",10027,10.87,45,3,Dance Maker,Brooklyn,"138 South Oxford Street, #4B  Brooklyn",11217-1695,Brooklyn,NY,-73.97355151,40.68514704,-73.95322362,40.81181896
+8025,"UBW, Inc.",10027,10.87,45,3,Dance Maker,Brooklyn,"138 South Oxford Street, #4B  Brooklyn",11217-1695,Brooklyn,NY,-73.97355151,40.68514704,-73.95322362,40.81181896
+8025,"UBW, Inc.",10027,10.87,45,3,Dance Maker,Brooklyn,"138 South Oxford Street, #4B  Brooklyn",11217-1695,Brooklyn,NY,-73.97355151,40.68514704,-73.95322362,40.81181896
+8025,"UBW, Inc.",10032,12.92,57,3,Dance Maker,Brooklyn,"138 South Oxford Street, #4B  Brooklyn",11217-1695,Brooklyn,NY,-73.97355151,40.68514704,-73.94284615,40.83882441
+8083,Loco-Motion Dance Theatre for Children,11217,4.23,25,1,Educational,Manhattan,131 East 10th Street  New York,10003-7504,Manhattan,NY,-73.98754145,40.73018199,-73.97934481,40.68242095
+8198,Heidi Latsky Dance,10021,3.17,28,2,Dance Maker,Manhattan,"400 West 43rd Street, Ste 21S  New York",10036-6302,Manhattan,NY,-73.99303188,40.7593808,-73.95863011,40.76915863
+8198,Heidi Latsky Dance,10032,6.96,31,2,Dance Maker,Manhattan,"400 West 43rd Street, Ste 21S  New York",10036-6302,Manhattan,NY,-73.99303188,40.7593808,-73.94284615,40.83882441
+8198,Heidi Latsky Dance,10036,0.19,4,2,Dance Maker,Manhattan,"400 West 43rd Street, Ste 21S  New York",10036-6302,Manhattan,NY,-73.99303188,40.7593808,-73.98990943,40.75928044
+8198,Heidi Latsky Dance,10036,0.19,4,2,Dance Maker,Manhattan,"400 West 43rd Street, Ste 21S  New York",10036-6302,Manhattan,NY,-73.99303188,40.7593808,-73.98990943,40.75928044
+8198,Heidi Latsky Dance,10128,4.10,32,2,Dance Maker,Manhattan,"400 West 43rd Street, Ste 21S  New York",10036-6302,Manhattan,NY,-73.99303188,40.7593808,-73.9499423,40.78142977
+8198,Heidi Latsky Dance,11215,9.26,49,2,Dance Maker,Manhattan,"400 West 43rd Street, Ste 21S  New York",10036-6302,Manhattan,NY,-73.99303188,40.7593808,-73.98682734,40.66239508
+8198,Heidi Latsky Dance,11211,5.34,33,2,Dance Maker,Manhattan,"400 West 43rd Street, Ste 21S  New York",10036-6302,Manhattan,NY,-73.99303188,40.7593808,-73.95353353,40.7123372
+8201,"Together in Dance, Inc.",11215,4.35,27,2,Educational,Brooklyn,195 Plymouth Street 4-13  Brooklyn,11201-1133,Brooklyn,NY,-73.98545158,40.70380803,-73.98682734,40.66239508
+8372,"Streb, Inc.",10013,4.78,28,4,Dance Maker,Brooklyn,51 North 1st Street  Brooklyn,11249-3939,Brooklyn,NY,-73.96474703,40.71687295,-74.00492769,40.72010704
+8372,"Streb, Inc.",10029,7.52,47,4,Dance Maker,Brooklyn,51 North 1st Street  Brooklyn,11249-3939,Brooklyn,NY,-73.96474703,40.71687295,-73.94387569,40.79169813
+8372,"Streb, Inc.",10029,7.52,47,4,Dance Maker,Brooklyn,51 North 1st Street  Brooklyn,11249-3939,Brooklyn,NY,-73.96474703,40.71687295,-73.94387569,40.79169813
+8372,"Streb, Inc.",11105,6.40,66,4,Dance Maker,Brooklyn,51 North 1st Street  Brooklyn,11249-3939,Brooklyn,NY,-73.96474703,40.71687295,-73.90676854,40.77887656
+8372,"Streb, Inc.",11427,15.47,88,4,Dance Maker,Brooklyn,51 North 1st Street  Brooklyn,11249-3939,Brooklyn,NY,-73.96474703,40.71687295,-73.74566089,40.73090357
+8387,Center for Performance Research,10026,9.88,45,2,Presenting,Brooklyn,361 Manhattan Avenue Unit 1 Brooklyn,11211-2744,Brooklyn,NY,-73.94674458,40.71666709,-73.95268139,40.80238049
+8387,Center for Performance Research,11206,1.12,14,2,Presenting,Brooklyn,361 Manhattan Avenue Unit 1 Brooklyn,11211-2744,Brooklyn,NY,-73.94674458,40.71666709,-73.94235774,40.70195384
+8387,Center for Performance Research,11218,8.02,42,2,Presenting,Brooklyn,361 Manhattan Avenue Unit 1 Brooklyn,11211-2744,Brooklyn,NY,-73.94674458,40.71666709,-73.97604634,40.64346807
+8387,Center for Performance Research,11222,1.24,17,2,Presenting,Brooklyn,361 Manhattan Avenue Unit 1 Brooklyn,11211-2744,Brooklyn,NY,-73.94674458,40.71666709,-73.94774403,40.72823579
+8443,"Dance Parade, Inc.",10021,2.92,40,2,Service,Manhattan,700 Columbus Avenue STE 7E New York,10025-6662,Manhattan,NY,-73.96863692,40.79204294,-73.95863011,40.76915863
+8443,"Dance Parade, Inc.",10128,1.68,23,2,Service,Manhattan,700 Columbus Avenue STE 7E New York,10025-6662,Manhattan,NY,-73.96863692,40.79204294,-73.9499423,40.78142977
+8443,"Dance Parade, Inc.",10469,9.82,49,2,Service,Manhattan,700 Columbus Avenue STE 7E New York,10025-6662,Manhattan,NY,-73.96863692,40.79204294,-73.84821764,40.86856974
+8443,"Dance Parade, Inc.",11213,12.74,57,2,Service,Manhattan,700 Columbus Avenue STE 7E New York,10025-6662,Manhattan,NY,-73.96863692,40.79204294,-73.93633572,40.67107757
+8443,"Dance Parade, Inc.",11226,12.12,58,2,Service,Manhattan,700 Columbus Avenue STE 7E New York,10025-6662,Manhattan,NY,-73.96863692,40.79204294,-73.95664878,40.64644801
+8443,"Dance Parade, Inc.",11230,13.67,64,2,Service,Manhattan,700 Columbus Avenue STE 7E New York,10025-6662,Manhattan,NY,-73.96863692,40.79204294,-73.96510535,40.6221639
+8443,"Dance Parade, Inc.",11230,13.67,64,2,Service,Manhattan,700 Columbus Avenue STE 7E New York,10025-6662,Manhattan,NY,-73.96863692,40.79204294,-73.96510535,40.6221639
+8458,"Inta, Inc.",10023,5.97,30,2,Dance Maker,Manhattan,"c/o Pentacle 75 Broad Street, Suite 304 New York",10004-2415,Manhattan,NY,-74.012311,40.704169,-73.98260661,40.7759212
+8583,"WCV, Inc.",11218,1.06,13,2,Dance Maker,Brooklyn,175 Prospect Park SW #1A  Brooklyn,11218-1327,Brooklyn,NY,-73.97331023,40.65361712,-73.97604634,40.64346807
+8632,"Overfoot, Inc/Jody Oberfelder Projects",10002,0.68,10,1,Dance Maker,Manhattan,455 FDR Drive B902 New York,10002-5912,Manhattan,NY,-73.97789556,40.71284287,-73.98625797,40.71576191
+8633,"Volcano Love, Inc.",11217,0.37,7,2,Dance Maker,Brooklyn,524 Bergen Street  Brooklyn,11217-2407,Brooklyn,NY,-73.97302092,40.68013492,-73.97934481,40.68242095
+8673,Cora Dance Inc.,10027,12.24,74,2,Dance Maker,Brooklyn,201 Richards Street Box 5 Brooklyn,11231-1512,Brooklyn,NY,-74.01263173,40.67488535,-73.95322362,40.81181896
+8673,Cora Dance Inc.,10027,12.24,74,2,Dance Maker,Brooklyn,201 Richards Street Box 5 Brooklyn,11231-1512,Brooklyn,NY,-74.01263173,40.67488535,-73.95322362,40.81181896
+8673,Cora Dance Inc.,11209,5.78,43,2,Dance Maker,Brooklyn,201 Richards Street Box 5 Brooklyn,11231-1512,Brooklyn,NY,-74.01263173,40.67488535,-74.03032358,40.62198169
+8673,Cora Dance Inc.,11216,4.78,42,2,Dance Maker,Brooklyn,201 Richards Street Box 5 Brooklyn,11231-1512,Brooklyn,NY,-74.01263173,40.67488535,-73.94931646,40.68076751
+8673,Cora Dance Inc.,11232,2.80,37,2,Dance Maker,Brooklyn,201 Richards Street Box 5 Brooklyn,11231-1512,Brooklyn,NY,-74.01263173,40.67488535,-74.0068203,40.65627874
+8792,Infinity Dance Theater Company Ltd.,10025,0.56,7,1,Dance Maker,Manhattan,220 West 93rd Street No. 6C New York,10025-7484,Manhattan,NY,-73.97240283,40.79229418,-73.96662265,40.79860089
+8792,Infinity Dance Theater Company Ltd.,10025,0.56,7,1,Dance Maker,Manhattan,220 West 93rd Street No. 6C New York,10025-7484,Manhattan,NY,-73.97240283,40.79229418,-73.96662265,40.79860089
+8822,"ASDT, Inc. - The American Spanish Dance Theatre",10027,4.60,20,1,Dance Maker,Manhattan,"356 West 45th Street, 5C  New York",10036-8345,Manhattan,NY,-73.99069249,40.75987341,-73.95322362,40.81181896
+8822,"ASDT, Inc. - The American Spanish Dance Theatre",10027,4.60,20,1,Dance Maker,Manhattan,"356 West 45th Street, 5C  New York",10036-8345,Manhattan,NY,-73.99069249,40.75987341,-73.95322362,40.81181896
+9187,Pascal Rioult Dance Theatre,10025,3.60,22,4,Dance Maker,Manhattan,246 W. 38th Street 11th Floor  New York,10018-5850,Manhattan,NY,-73.99045836,40.75397575,-73.96662265,40.79860089
+9187,Pascal Rioult Dance Theatre,10028,3.60,30,4,Dance Maker,Manhattan,246 W. 38th Street 11th Floor  New York,10018-5850,Manhattan,NY,-73.99045836,40.75397575,-73.95349321,40.77642648
+9187,Pascal Rioult Dance Theatre,10028,3.60,30,4,Dance Maker,Manhattan,246 W. 38th Street 11th Floor  New York,10018-5850,Manhattan,NY,-73.99045836,40.75397575,-73.95349321,40.77642648
+9187,Pascal Rioult Dance Theatre,10031,5.72,30,4,Dance Maker,Manhattan,246 W. 38th Street 11th Floor  New York,10018-5850,Manhattan,NY,-73.99045836,40.75397575,-73.95005622,40.82529412
+9187,Pascal Rioult Dance Theatre,10128,3.67,32,4,Dance Maker,Manhattan,246 W. 38th Street 11th Floor  New York,10018-5850,Manhattan,NY,-73.99045836,40.75397575,-73.9499423,40.78142977
+9187,Pascal Rioult Dance Theatre,11216,7.71,31,4,Dance Maker,Manhattan,246 W. 38th Street 11th Floor  New York,10018-5850,Manhattan,NY,-73.99045836,40.75397575,-73.94931646,40.68076751
+9314,Racoco Productions Inc,11211,0.81,14,1,Dance Maker,Brooklyn,109 N 9th Street 3R  Brooklyn,11249-1902,Brooklyn,NY,-73.95820654,40.72008686,-73.95353353,40.7123372
+9511,"Baryshnikov Arts Center, Inc.",11215,8.64,51,4,Presenting,Manhattan,"450 West 37th Street, Suite 501  New York",10018-4016,Manhattan,NY,-73.99737188,40.75611074,-73.98682734,40.66239508
+9536,"Parsons Dance Foundation, Inc.",10022,1.74,13,4,Dance Maker,Manhattan,229 West 42nd Street 8th floor New York,10036-7205,Manhattan,NY,-73.98805013,40.7568124,-73.96781711,40.75855479
+10359,"Big Tree Productions, Inc.",10011,0.37,4,2,Dance Maker,Manhattan,"42 Horatio Street, #9  New York",10014-1683,Manhattan,NY,-74.00497483,40.73866363,-74.00059401,40.74200174
+10752,The Equus Projects Inc.,10011,0.31,6,1,Dance Maker,Manhattan,121 West 17th Street Apt 4B  New York,10011-5436,Manhattan,NY,-73.99637348,40.73992228,-74.00059401,40.74200174
+10786,"New York United Jewish Association, Inc",11230,2.30,30,1,Service,Brooklyn,2076 Flatbush Avenue  Brooklyn,11234-4314,Brooklyn,NY,-73.93340181,40.61902354,-73.96510535,40.6221639
+10786,"New York United Jewish Association, Inc",11230,2.30,30,1,Service,Brooklyn,2076 Flatbush Avenue  Brooklyn,11234-4314,Brooklyn,NY,-73.93340181,40.61902354,-73.96510535,40.6221639
+10862,Curran Events Inc.,10003,0.87,12,1,Dance Maker,Manhattan,21 First Avenue Suite 18 New York,10003-9406,Manhattan,NY,-73.98834536,40.72357568,-73.98918093,40.7318292
+10862,Curran Events Inc.,10003,0.87,12,1,Dance Maker,Manhattan,21 First Avenue Suite 18 New York,10003-9406,Manhattan,NY,-73.98834536,40.72357568,-73.98918093,40.7318292
+10862,Curran Events Inc.,10019,4.04,26,1,Dance Maker,Manhattan,21 First Avenue Suite 18 New York,10003-9406,Manhattan,NY,-73.98834536,40.72357568,-73.98706746,40.76579302
+10862,Curran Events Inc.,11217,3.67,24,1,Dance Maker,Manhattan,21 First Avenue Suite 18 New York,10003-9406,Manhattan,NY,-73.98834536,40.72357568,-73.97934481,40.68242095
+10868,"Dance Continuum, Inc.",10003,1.55,15,2,Dance Maker,Manhattan,120 W 28th Street Studio 4L New York,10001-6109,Manhattan,NY,-73.9917394,40.74630253,-73.98918093,40.7318292
+10868,"Dance Continuum, Inc.",10025,4.10,22,2,Dance Maker,Manhattan,120 W 28th Street Studio 4L New York,10001-6109,Manhattan,NY,-73.9917394,40.74630253,-73.96662265,40.79860089
+10868,"Dance Continuum, Inc.",11106,5.78,34,2,Dance Maker,Manhattan,120 W 28th Street Studio 4L New York,10001-6109,Manhattan,NY,-73.9917394,40.74630253,-73.93180774,40.76179377
+10868,"Dance Continuum, Inc.",11205,5.72,43,2,Dance Maker,Manhattan,120 W 28th Street Studio 4L New York,10001-6109,Manhattan,NY,-73.9917394,40.74630253,-73.96628636,40.69469606
+10868,"Dance Continuum, Inc.",11205,5.72,43,2,Dance Maker,Manhattan,120 W 28th Street Studio 4L New York,10001-6109,Manhattan,NY,-73.9917394,40.74630253,-73.96628636,40.69469606
+10868,"Dance Continuum, Inc.",11218,9.07,44,2,Dance Maker,Manhattan,120 W 28th Street Studio 4L New York,10001-6109,Manhattan,NY,-73.9917394,40.74630253,-73.97604634,40.64346807
+10868,"Dance Continuum, Inc.",11221,6.34,33,2,Dance Maker,Manhattan,120 W 28th Street Studio 4L New York,10001-6109,Manhattan,NY,-73.9917394,40.74630253,-73.9278789,40.69134011
+10895,Dancing Classrooms,10012,2.49,13,4,Educational,Manhattan,25 W. 31st Street 4th floor New York,10001-4413,Manhattan,NY,-73.98723174,40.74733083,-73.99807839,40.72558064
+11260,UCDA,11358,13.48,60,2,Dance Maker,Manhattan,144Second Avenue New York N.Y. Manhattan,10003-8305,Manhattan,NY,-73.9869488,40.72892479,-73.79637107,40.76047096
+11275,"Isadora Duncan International Institute, Inc.",10065,0.43,7,1,Service,Manhattan,"150 East 61st Street, 11C  New York",10065-0000,Manhattan,NY,-73.96729062,40.76339013,-73.96301279,40.76458398
+11324,Young Dancemakers Company,10024,8.64,43,1,Educational,Bronx,3901 Fieldston Road Bronx.NY Bronx,10471-3997,Bronx,NY,-73.90638448,40.88919374,-73.97485393,40.79219651
+12788,"Gallim Dance Company, Inc.",10023,8.95,43,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.98260661,40.7759212
+12788,"Gallim Dance Company, Inc.",10023,8.95,43,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.98260661,40.7759212
+12788,"Gallim Dance Company, Inc.",11201,1.74,13,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.98995163,40.69448579
+12788,"Gallim Dance Company, Inc.",11216,0.99,6,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.94931646,40.68076751
+12788,"Gallim Dance Company, Inc.",11221,2.61,29,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.9278789,40.69134011
+12788,"Gallim Dance Company, Inc.",11221,2.61,29,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.9278789,40.69134011
+12788,"Gallim Dance Company, Inc.",11225,2.55,27,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.95421921,40.66304587
+12788,"Gallim Dance Company, Inc.",11226,3.17,37,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.95664878,40.64644801
+12788,"Gallim Dance Company, Inc.",11237,3.60,41,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.92095455,40.70419669
+12788,"Gallim Dance Company, Inc.",11238,0.31,7,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.96380438,40.67917074
+12788,"Gallim Dance Company, Inc.",11238,0.31,7,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.96380438,40.67917074
+12788,"Gallim Dance Company, Inc.",11238,0.31,7,3,Dance Maker,Brooklyn,520 Clinton Avenue  New York,11238-2211,Brooklyn,NY,-73.96719339,40.68268421,-73.96380438,40.67917074
+12835,"Kerri Edge Children's Dance Ensemble, Inc.",11208,11.62,51,1,Educational,Queens,"217-12 Merrick Boulevard Laurelton, NY Springfield Gardens",11413-1917,Queens,NY,-73.751834,40.67182,-73.87137212,40.6697687
+12835,"Kerri Edge Children's Dance Ensemble, Inc.",11212,10.94,52,1,Educational,Queens,"217-12 Merrick Boulevard Laurelton, NY Springfield Gardens",11413-1917,Queens,NY,-73.751834,40.67182,-73.91302878,40.66293648
+12835,"Kerri Edge Children's Dance Ensemble, Inc.",11213,12.80,51,1,Educational,Queens,"217-12 Merrick Boulevard Laurelton, NY Springfield Gardens",11413-1917,Queens,NY,-73.751834,40.67182,-73.93633572,40.67107757
+12835,"Kerri Edge Children's Dance Ensemble, Inc.",11377,10.38,62,1,Educational,Queens,"217-12 Merrick Boulevard Laurelton, NY Springfield Gardens",11413-1917,Queens,NY,-73.751834,40.67182,-73.90515579,40.74481944
+12835,"Kerri Edge Children's Dance Ensemble, Inc.",11411,2.73,29,1,Educational,Queens,"217-12 Merrick Boulevard Laurelton, NY Springfield Gardens",11413-1917,Queens,NY,-73.751834,40.67182,-73.7362158,40.69402099
+12835,"Kerri Edge Children's Dance Ensemble, Inc.",11413,0.19,3,1,Educational,Queens,"217-12 Merrick Boulevard Laurelton, NY Springfield Gardens",11413-1917,Queens,NY,-73.751834,40.67182,-73.7508402,40.66981707
+12835,"Kerri Edge Children's Dance Ensemble, Inc.",11413,0.19,3,1,Educational,Queens,"217-12 Merrick Boulevard Laurelton, NY Springfield Gardens",11413-1917,Queens,NY,-73.751834,40.67182,-73.7508402,40.66981707
+12835,"Kerri Edge Children's Dance Ensemble, Inc.",11413,0.19,3,1,Educational,Queens,"217-12 Merrick Boulevard Laurelton, NY Springfield Gardens",11413-1917,Queens,NY,-73.751834,40.67182,-73.7508402,40.66981707
+12835,"Kerri Edge Children's Dance Ensemble, Inc.",11434,2.36,28,1,Educational,Queens,"217-12 Merrick Boulevard Laurelton, NY Springfield Gardens",11413-1917,Queens,NY,-73.751834,40.67182,-73.77621417,40.67683084
+12835,"Kerri Edge Children's Dance Ensemble, Inc.",11434,2.36,28,1,Educational,Queens,"217-12 Merrick Boulevard Laurelton, NY Springfield Gardens",11413-1917,Queens,NY,-73.751834,40.67182,-73.77621417,40.67683084
+13958,The Peridance Ensemble LTD,11238,6.09,31,2,Dance Maker,Manhattan,126 East 13th Street  New York,10003-5306,Manhattan,NY,-73.9893182,40.73319773,-73.96380438,40.67917074
+14473,New York Live Arts,10002,2.67,20,5,Presenting,Manhattan,219 West 19th Street  New York,10011-4001,Manhattan,NY,-73.99792544,40.74194694,-73.98625797,40.71576191
+14473,New York Live Arts,10025,4.60,24,5,Presenting,Manhattan,219 West 19th Street  New York,10011-4001,Manhattan,NY,-73.99792544,40.74194694,-73.96662265,40.79860089
+14473,New York Live Arts,11221,6.09,33,5,Presenting,Manhattan,219 West 19th Street  New York,10011-4001,Manhattan,NY,-73.99792544,40.74194694,-73.9278789,40.69134011
+14617,Gelsey Kirkland Academy of Classical Ballet,10031,10.56,50,4,Educational,Brooklyn,29 Jay Street  Brooklyn,11201-1105,Brooklyn,NY,-73.98644448,40.70383948,-73.95005622,40.82529412
+14617,Gelsey Kirkland Academy of Classical Ballet,11201,1.24,16,4,Educational,Brooklyn,29 Jay Street  Brooklyn,11201-1105,Brooklyn,NY,-73.98644448,40.70383948,-73.98995163,40.69448579
+14617,Gelsey Kirkland Academy of Classical Ballet,11215,4.23,26,4,Educational,Brooklyn,29 Jay Street  Brooklyn,11201-1105,Brooklyn,NY,-73.98644448,40.70383948,-73.98682734,40.66239508
+14617,Gelsey Kirkland Academy of Classical Ballet,11226,4.60,52,4,Educational,Brooklyn,29 Jay Street  Brooklyn,11201-1105,Brooklyn,NY,-73.98644448,40.70383948,-73.95664878,40.64644801
+14852,Sarah Michelson Inc.,10003,0.31,6,2,Dance Maker,Manhattan,140 Second Ave #501  New York,10003-8385,Manhattan,NY,-73.98701883,40.7288292,-73.98918093,40.7318292
+14853,Balinese American Dance Theatre,10011,0.06,2,1,Dance Maker,Manhattan,319 West 18th St Apt 4C  New York,10011-4418,Manhattan,NY,-74.00161247,40.74288393,-74.00059401,40.74200174
+14853,Balinese American Dance Theatre,10011,0.06,2,1,Dance Maker,Manhattan,319 West 18th St Apt 4C  New York,10011-4418,Manhattan,NY,-74.00161247,40.74288393,-74.00059401,40.74200174
+16432,"Jessica Lang Dance, Inc.",11101,0.12,2,3,Dance Maker,Queens,2728 Thomson Ave Workspace 10  Long Island City,11101-2922,Queens,NY,-73.93918,40.74847,-73.93868942,40.74726638
+16432,"Jessica Lang Dance, Inc.",11238,7.71,43,3,Dance Maker,Queens,2728 Thomson Ave Workspace 10  Long Island City,11101-2922,Queens,NY,-73.93918,40.74847,-73.96380438,40.67917074
+16432,"Jessica Lang Dance, Inc.",11238,7.71,43,3,Dance Maker,Queens,2728 Thomson Ave Workspace 10  Long Island City,11101-2922,Queens,NY,-73.93918,40.74847,-73.96380438,40.67917074
+16464,Ballroom Basix,10035,1.18,20,1,Educational,Manhattan,178 East 117th St. 1B New York,10035-4767,Manhattan,NY,-73.9403437,40.79875274,-73.92973093,40.79565225
+16969,Kathryn Posin Dance Company,10012,0.43,6,1,Dance Maker,Manhattan,"20 Bond Street, 4th Floor  New York",10012-2406,Manhattan,NY,-73.99372393,40.72675831,-73.99807839,40.72558064
+16969,Kathryn Posin Dance Company,10012,0.43,6,1,Dance Maker,Manhattan,"20 Bond Street, 4th Floor  New York",10012-2406,Manhattan,NY,-73.99372393,40.72675831,-73.99807839,40.72558064
+17851,Youth America Grand Prix,10025,4.78,31,4,Educational,Manhattan,"c/o SM&W 417 Fifth Avenue, Floor 5 New York",10016-2210,Manhattan,NY,-73.980751,40.745154,-73.96662265,40.79860089
+17851,Youth America Grand Prix,10025,4.78,31,4,Educational,Manhattan,"c/o SM&W 417 Fifth Avenue, Floor 5 New York",10016-2210,Manhattan,NY,-73.980751,40.745154,-73.96662265,40.79860089
+17864,Liberated Movement,11106,7.89,44,1,Educational,Manhattan,380 Broadway 5th Floor New York,10013-6025,Manhattan,NY,-74.003648,40.720024,-73.93180774,40.76179377
+17884,"Periapsis Music and Dance, Inc.",11238,0.37,6,1,Dance Maker,Brooklyn,523 Prospect Place #405 New York,11238-4253,Brooklyn,NY,-73.95927788,40.67574758,-73.96380438,40.67917074

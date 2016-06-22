@@ -8,7 +8,9 @@ body {
 .header {
   position:absolute;
   padding-left: 30px;
-  height: 8%;
+  top: 0px;
+  left: 0px;
+  height: 80px;
   width:100%;
   background-color: black;
   font-family: 'Source Serif Pro', serif;
@@ -18,25 +20,30 @@ body {
 .map {
     position: absolute;
     right: 0px;
-    left: 0px;
+    left: 300px;
     height: 100%;
-    top:8%;
+    top:80px;
 }
 
 .sidebar {
     left: 0px;
-    width: 20%;
-    top: 8%;
-    bottom: 0;
-    overflow-y: auto;
+    width: 300px;
+    top: 80px;
+    bottom: 0px;
     padding-left: 50px;
     padding-top: 20px;
     padding-right: 50px;
     padding-bottom: 20px;
     font-size: 16px;
-    opacity: 0.7;
-    filter: alpha(opacity=70); /* For IE8 and earlier */
     position: absolute;
-    z-index: 1;
     background-color: white;
+}
+
+.leaflet-marker-icon {
+    border:2px solid rgba(255,255,255,0.5);
+    border-radius:50%;
+}
+
+.icon-all {
+    background-color: #282345;
 }

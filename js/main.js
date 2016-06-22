@@ -1,12 +1,9 @@
-var city_Latlng = new google.maps.LatLng(40.7128, -74.0059);
-var mapOptions = {
-  zoom:11,
-  center: city_Latlng,
-  mapTypeId: google.maps.MapTypeId.ROADMAP
-};
-var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+var map = L.map('map', {
+  center: [40.7831, -73.9712],
+  zoom: 11
+});
+var Stamen_Toner = new L.StamenTileLayer("toner");
+map.addLayer(Stamen_Toner);
 
-var distanceMatrixService = new google.maps.DistanceMatrixService();
-
-var rawOrgsRespZips;
-var OrgsRespZips;
+var danceNycRaw;
+var markersAllOrgs;

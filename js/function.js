@@ -1,49 +1,56 @@
-OrgsRespZips = rawOrgsRespZips.features;
-console.log(OrgsRespZips);
+// var orgId = 0;
+// var danceNycOrganized;
+// var objTemp = new Object();
+// _.chain(danceNycRaw.features).map(function(datum){
+//   var id = datum.properties.ORG_ID;
+//   if(orgId != id){
+//     objTemp = new Object();
+//     orgId = id;
+//     objTemp.org_id = id;
+//     objTemp.org_name = datum.properties.ORG_NAME;
+//     objTemp.bud_size = datum.properties.DANCENYC_Budget_Size;
+//     objTemp.disc = datum.properties.DANCENYC_Discipline;
+//     objTemp.address = datum.properties.Org_ADDRESS;
+//     objTemp.zip = datum.properties.Org_Zip_Code;
+//     objTemp.city = datum.properties.Org_City;
+//     objTemp.state = datum.properties.Org_State;
+//     objTemp.lat = datum.geometry.coordinates[1];
+//     objTemp.lng = datum.geometry.coordinates[0];
+//     objTemp.med_dist = datum.properties.med_td;
+//     objTemp.avg_dist = datum.properties.avg_td;
+//     objTemp.med_time =datum.properties.med_tt;
+//     objTemp.avg_time = datum.properties.avg_tt;
+//     objTemp.zcta.zcta_num = datum.properties.ZCTA;
+//     objTemp.zcta.dist = datum.properties.Distance;
+//     objTemp.zcta.time = datum.properties.TravelTime;
+//     objTemp.zcta.lat = datum.properties.ZCTA_lat;
+//     objTemp.zcta.lng = datum.properties.ZCTA_lng;
+//   }
+//   else {
+//
+//   }
+// })
 
-OrgsRespZipsSubset1 = _.first(OrgsRespZips,100);
+// var markerAllOrgs = _.chain(danceNycRaw.features)
+//  .map(function(datum){
+//   datum.properties.marker = L.marker([datum.geometry.coordinates[1], datum.geometry.coordinates[0]]);
+//   return datum.properties.marker.setIcon(L.divIcon({className: 'icon-all'})).addTo(map);
+// }).value();
+// console.log(danceNycRaw);
 
-// for(i=0; i<=9; i++){
-//   var organization = new google.maps.LatLng(OrgsRespZipsSubset1[i].geometry.coordinates[1],OrgsRespZipsSubset1[i].geometry.coordinates[0]);
-//   var zipcode = new google.maps.LatLng(OrgsRespZipsSubset1[i].properties.z_lat, OrgsRespZipsSubset1[i].properties.z_lng);
-//   distanceMatrixService.getDistanceMatrix(
-//     {
-//       origins: [organization],
-//       destinations: [zipcode],
-//       travelMode: google.maps.TravelMode.TRANSIT,
-//       unitSystem: google.maps.UnitSystem.METRIC
-//     }, function (response, status){
-//       if (status !== google.maps.DistanceMatrixStatus.OK) {
-//           alert('Error was: ' + status);
-//       }
-//       else{
-//         OrgsRespZipsSubset1[i].properties.dist = response.rows[0].elements[0].distance.text;
-//         // OrgsRespZipsSubset1[i].properties.traveltime = response.rows[0].elements[0].duration.text;
-//         console.log(response.rows[0].elements[0].duration.text)
-//       }
-//     });
-// }
+var svg = d3.select(map.getPanes().overlayPane).append("svg");
+var g = svg.append("g").attr("class", "leaflet-zoom-hide");
 
+$.ajax(rawChicagoProbs).done(function(data){
+  dataChiProbs = JSON.parse(data);
+  _.map(dataChiProbs.features, function(datum){
+    datum.properties.marker = L.marker([datum.geometry.coordinates[1], datum.geometry.coordinates[0]]);
+  });
+  console.log(dataChiProbs);
+});
 
+d3.json(danceNycRaw, function(error, collection) {
+  // if (error) throw error;
 
-  _.chain(OrgsRespZipsSubset1).map(function(datum){
-    var organization = new google.maps.LatLng(datum.geometry.coordinates[1],datum.geometry.coordinates[0]);
-    var zipcode = new google.maps.LatLng(datum.properties.z_lat, datum.properties.z_lng);
-    distanceMatrixService.getDistanceMatrix(
-      {
-        origins: [organization],
-        destinations: [zipcode],
-        travelMode: google.maps.TravelMode.TRANSIT,
-        unitSystem: google.maps.UnitSystem.METRIC
-      }, function (response, status){
-        if (status !== google.maps.DistanceMatrixStatus.OK) {
-            alert('Error was: ' + status);
-        }
-        else{
-          datum.properties.dist = response.rows[0].elements[0].distance.text;
-          datum.properties.traveltime = response.rows[0].elements[0].duration.text;
-        }
-      });
-  }).value();
-  console.log(OrgsRespZipsSubset1);
-    console.log(OrgsRespZipsSubset1.length);
+  // code here
+});
