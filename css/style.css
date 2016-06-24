@@ -45,5 +45,9 @@ body {
 }
 
 .icon-all {
-    background-color: #ff5314;
+  background-color: #ff5314;
+}
+
+.icon-focus {
+  background-color: #008000;
 }
