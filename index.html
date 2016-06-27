@@ -12,15 +12,28 @@
   </head>
   <body>
     <!-- Header -->
-    <div class="header"><h1>Dance/NYC</h1></div>
+    <div class="header"><h1>Dance/NYC Workforce Travel Time</h1></div>
 
     <!-- Sidebar -->
     <div class="sidebar">
-      <div class="searchbox">
-        <input type="text" id="org_name">
-      </div>
+      <div>
+        <select class="city">
+          <option class="orgCity" value="county">County</option>
+          <option class="orgCity" value="manhattan">&nbsp;Manhattan</option>
+          <option class="orgCity" value="brooklyn">&nbsp;Brooklyn</option>
+          <option class="orgCity" value="queens">&nbsp;Queens</option>
+          <option class="orgCity" value="bronx">&nbsp;Bronx</option>
+          <option class="orgCity" value="staten island">&nbsp;Staten Island</option>
+        </select>
+      </div><br>
+      <div>
+        <select class="name">
+          <option class="orgName" value="organization">Organization</option>
+        </select>
+      </div><br>
+
       <div class="button">
-        <input type = "button" id = "btn-clear_org_search" value = "Clear Search"></input>
+        <input type="button" id="btn-clear_org_search" value="Clear Search"></input>
       </div>
 
     </div>
@@ -29,6 +42,27 @@
     <div id="map" class="map"></div>
 
     <!-- Legend -->
+    <div class="legend">
+      <div id="legend-title">Public Transit Travel Time (mins)</div>
+      <table>
+        <tr>
+          <td><div id="legend-first"></div></td>
+          <td id="label-first">less than 15</td>
+        </tr>
+        <tr>
+          <td><div id="legend-second"></div></td>
+          <td id="label-second">15 - 30</td>
+        </tr>
+        <tr>
+          <td><div id="legend-third"></div></td>
+          <td id="label-third">30 - 45</td>
+        </tr>
+        <tr>
+          <td><div id="legend-fourth"></div></td>
+          <td id="label-fourth">More than 45</td>
+        </tr>
+      </table>
+    </div>
 
     <!-- Javascript Imports -->
     <script src="js/leaflet.js"></script>
