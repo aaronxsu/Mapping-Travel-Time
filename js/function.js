@@ -173,6 +173,7 @@ var pathOption = function(travelTime, opa, strk){
 
    $('.city').change(function(e){
      $('.name').empty();
+     $('.name').append("<option id='orgName' value='organization'>Organization</option>")
      var orgName = "";
      if(isDanceNycParsed){
        _.chain(danceNycParsed.features)
@@ -182,7 +183,7 @@ var pathOption = function(travelTime, opa, strk){
        .map(function(datum){
          if(orgName != datum.properties.ORG_NAME){
            var htmlContent = "<option class='orgName' value=' " + datum.properties.ORG_ID
-                           + "'>" + datum.properties.ORG_NAME + "</option>";
+                           + "'>&nbsp;&nbsp;" + datum.properties.ORG_NAME + "</option>";
            $('.name').append(htmlContent);
            orgName = datum.properties.ORG_NAME
          }
