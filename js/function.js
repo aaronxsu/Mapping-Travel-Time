@@ -163,7 +163,6 @@ var pathOption = function(travelTime, opa, strk){
                        return plotMaker('icon-all', datum.properties.marker)
                      })
                       .value();
-     console.log(danceNycParsed);
    });
  }
 
